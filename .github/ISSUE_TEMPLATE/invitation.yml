@@ -1,0 +1,31 @@
+name: Invitation to the GitHub Community Organization
+description: I would like to be part of the awesome community
+title: "Please invite me to the GitHub Community Organization"
+labels: [Invitation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: input
+    id: discordname
+    attributes:
+      label: Discord Username (if applicable)
+      placeholder: Insert your Discord username here
+    validations:
+      required: false
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: How did you come to know about Design and Code ? What do you like about this community/Why do you want to join?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [here](https://discord.gg/druweDMn3s)
+        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/Design-and-Code)
