@@ -45,7 +45,7 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 > 
 > 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, than only you will become a member of our Github Organization.
 
-### How do I set the Organization to Public? You can make the organization public by:
+### How do I set the Organization to Public?
 
 > 1. Navigate to our community page: https://github.com/Design-and-Code/
 >   
