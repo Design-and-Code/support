@@ -1,7 +1,7 @@
 name: Ideas
 description: Have a new idea or feature request
 title: "[FEATURE REQUEST] <description here>"
-labels: [enhancement]
+labels: [ideas]
 body:
   - type: textarea
     id: description
